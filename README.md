@@ -37,9 +37,9 @@ Greetings! My name is Gowtham, and I am a second-year university student pursuin
 ## Contact Information 📞
 
 <div style="display:flex;">
-    <img src="https://img.icons8.com/color/24/000000/gmail-new.png" style="width: 30px; height: 30px; margin-right: 10px;">
-    <img src="https://img.icons8.com/fluent/24/000000/github.png" style="width: 30px; height: 30px; margin-right: 10px;">
-    <img src="https://img.icons8.com/fluent/24/000000/linkedin.png" style="width: 30px; height: 30px;">
+    <a href="mailto:gowtham.ala12345@gmail.com"><img src="https://img.icons8.com/color/24/000000/gmail-new.png" style="width: 30px; height: 30px; margin-right: 10px;"></a>
+    <a href="https://www.github.com/gowtham-2oo5"><img src="https://img.icons8.com/fluent/24/000000/github.png" style="width: 30px; height: 30px; margin-right: 10px;"></a>
+    <a href="https://www.linkedin.com/in/gowtham-2oo5"><img src="https://img.icons8.com/fluent/24/000000/linkedin.png" style="width: 30px; height: 30px;"></a>
 </div>
 
 ## Thank you !!
