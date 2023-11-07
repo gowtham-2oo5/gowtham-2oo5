@@ -34,6 +34,14 @@ Greetings! My name is Gowtham, and I am a second-year university student pursuin
 
 - Developed using MERN
 
+### Project 2: Currency Coverter
+
+- Developed using Java
+
+### Project 3: Hotel Management System
+
+- Developed using C programming language
+
 ## Contact Information 📞
 
 <div style="display:flex;">
