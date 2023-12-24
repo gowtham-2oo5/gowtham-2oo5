@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&pause=500&center=true&vCenter=true&random=false&width=435&lines=Hi+there+!;Myself+Gowtham!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&pause=500&center=true&vCenter=true&random=false&width=435&lines=Hey!;Gowtham+here+👋;Have+a+good+day)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,7 +30,7 @@ Greetings! I am a second-year university student pursuing Bachelor's degree in C
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,mui,html,css,python,dart,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=react,vite,mui,html,css,python,vscode,github" />
     <img src="https://skillicons.dev/icons?i=tailwind,git,nodejs,javascript,express,mongodb,c,java,postgres" /><br>
 </div>
 
@@ -52,7 +52,7 @@ Greetings! I am a second-year university student pursuing Bachelor's degree in C
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&pause=500&center=true&vCenter=true&random=false&width=435&lines=Feel+free+to+connect+with+me;Thank+you+for+visiting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&pause=500&center=true&vCenter=true&random=false&width=435&lines=Feel+free+to+connect+with+me+on)](https://git.io/typing-svg)
 
 </div>
 
