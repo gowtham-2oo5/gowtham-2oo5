@@ -4,13 +4,10 @@
 
 </div>
 
-<h3 align="center">An aspiring software developer from India 🇮🇳</h3>
+<h3 align="center">Connect with me !</h3>
 
 <br/>
 
-<div align="left">
-Greetings! I am a second-year university student pursuing Bachelor's degree in Computer Science at KL University in Vaddeswaram, Andhra Pradesh, India. As an aspiring full-stack developer, I am continuously seeking to enhance my web development skills.
-</div>
 <br/>
  
 <div align="center"> 
@@ -20,9 +17,6 @@ Greetings! I am a second-year university student pursuing Bachelor's degree in C
   <a href="https://linkedin.com/in/gowtham-2oo5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://t.me/gowtham2k5" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
-  </a>
 </div>
 
  <hr/>
@@ -30,8 +24,8 @@ Greetings! I am a second-year university student pursuing Bachelor's degree in C
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vite,mui,html,css,python,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=tailwind,git,nodejs,javascript,express,mongodb,c,java,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=react,mui,html,css,javascript,python,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=tailwind,git,nodejs,express,mongodb,c,java,postgres,next" /><br>
 </div>
 
 <br/>
@@ -52,7 +46,7 @@ Greetings! I am a second-year university student pursuing Bachelor's degree in C
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&pause=500&center=true&vCenter=true&random=false&width=435&lines=Feel+free+to+connect+with+me+on)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&pause=500&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+your+time+🩵)](https://git.io/typing-svg)
 
 </div>
 
